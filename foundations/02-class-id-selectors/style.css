@@ -1,0 +1,15 @@
+.num1{
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#num2{
+    font-size:  36px;
+    color:blue;
+}
+#num3{
+    font-size: 24px;
+}
+#num4{
+    background-color:lightgreen ;
+    font-size:24px;
+}
